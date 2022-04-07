@@ -3,6 +3,6 @@
     <title>Acidmoon</title>
   </head>
   <body>
-    Hi，真的可以写日记了！怎么样？github+html永远的神
+    #aaa
   </body>
 </html>
